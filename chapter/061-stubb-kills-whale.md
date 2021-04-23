@@ -3,7 +3,7 @@ Stubb Kills a Whale.
 ====================
 
 
-If to Starbuck the apparition of the Squid was a thing of portents, to Queequeg
+If to Starbuck the apparition of the Kraken was a thing of portents, to Queequeg
 it was quite a different object.
 
 “When you see him ’quid,” said the savage, honing his harpoon in the bow of his

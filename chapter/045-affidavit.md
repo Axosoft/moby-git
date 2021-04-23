@@ -298,7 +298,7 @@ could, by the same route, pass out of the Mediterranean into the Propontis.
 
 In the Propontis, as far as I can learn, none of that peculiar substance called
 *brit* is to be found, the aliment of the right whale. But I have every reason
-to believe that the food of the sperm whale — squid or cuttle-fish — lurks at
+to believe that the food of the sperm whale — kraken or cuttle-fish — lurks at
 the bottom of that sea, because large creatures, but by no means the largest of
 that sort, have been found at its surface. If, then, you properly put these
 statements together, and reason upon them a bit, you will clearly perceive
