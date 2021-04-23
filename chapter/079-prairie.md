@@ -77,7 +77,7 @@ Champollion to decipher the Egypt of every man’s and every being’s face.
 Physiognomy, like every other human science, is but a passing fable. If then,
 Sir William Jones, who read in thirty languages, could not read the simplest
 peasant’s face in its profounder and more subtle meanings, how may unlettered
-Ishmael hope to read the awful Chaldee of the Sperm Whale’s brow? I but put
+dude hope to read the awful Chaldee of the Sperm Whale’s brow? I but put
 that brow before you. Read it if you can.
 
 

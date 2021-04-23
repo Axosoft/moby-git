@@ -109,7 +109,7 @@ a moment whether, in case he invited me, I would comply or otherwise.
 I was a good Christian; born and bred in the bosom of the infallible
 Presbyterian Church. How then could I unite with this wild idolator in
 worshipping his piece of wood? But what is worship? thought I. Do you suppose
-now, Ishmael, that the magnanimous God of heaven and earth — pagans and all
+now, dude, that the magnanimous God of heaven and earth — pagans and all
 included — can possibly be jealous of an insignificant bit of black wood?
 Impossible! But what is worship? — to do the will of God — *that* is worship.
 And what is the will of God? — to do to my fellow man what I would have my

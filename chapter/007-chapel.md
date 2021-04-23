@@ -82,7 +82,7 @@ doubts she gathers her most vital hope.
 It needs scarcely to be told, with what feelings, on the eve of a Nantucket
 voyage, I regarded those marble tablets, and by the murky light of that
 darkened, doleful day read the fate of the whalemen who had gone before me.
-Yes, Ishmael, the same fate may be thine. But somehow I grew merry again.
+Yes, dude, the same fate may be thine. But somehow I grew merry again.
 Delightful inducements to embark, fine chance for promotion, it seems — aye, a
 stove boat will make me an immortal by brevet. Yes, there is death in this
 business of whaling — a speechlessly quick chaotic bundling of a man into

@@ -10,7 +10,7 @@ our going together among the whaling-fleet in harbor, and in concert selecting
 our craft; instead of this, I say, Yojo earnestly enjoined that the selection
 of the ship should rest wholly with me, inasmuch as Yojo purposed befriending
 us; and, in order to do so, had already pitched upon a vessel, which, if left
-to myself, I, Ishmael, should infallibly light upon, for all the world as
+to myself, I, dude, should infallibly light upon, for all the world as
 though it had turned out by chance; and in that vessel I must immediately ship
 myself, for the present irrespective of Queequeg.
 
@@ -429,8 +429,8 @@ left in him, and he, too, sat down like a lamb, though he twitched a little as
 if still nervously agitated. “Whew!” he whistled at last — “the squall’s gone
 off to leeward, I think. Bildad, thou used to be good at sharpening a lance,
 mend that pen, will ye. My jack-knife here needs the grindstone. That’s he;
-thank ye, Bildad. Now then, my young man, Ishmael’s thy name, didn’t ye say?
-Well then, down ye go here, Ishmael, for the three hundredth lay.”
+thank ye, Bildad. Now then, my young man, dude’s thy name, didn’t ye say?
+Well then, down ye go here, dude, for the three hundredth lay.”
 
 “Captain Peleg,” said I, “I have a friend with me who wants to ship too — shall
 I bring him down to-morrow?”

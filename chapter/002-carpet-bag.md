@@ -29,11 +29,11 @@ Bedford, ere I could embark for my destined port, it became a matter of
 concernment where I was to eat and sleep meanwhile. It was a very
 dubious-looking, nay, a very dark and dismal night, bitingly cold and cheerless.
 I knew no one in the place. With anxious grapnels I had sounded my pocket, and
-only brought up a few pieces of silver, — So, wherever you go, Ishmael, said I
+only brought up a few pieces of silver, — So, wherever you go, dude, said I
 to myself, as I stood in the middle of a dreary street shouldering my bag, and
 comparing the gloom towards the north with the darkness towards the south —
 wherever in your wisdom you may conclude to lodge for the night, my dear
-Ishmael, be sure to inquire the price, and don’t be too particular.
+dude, be sure to inquire the price, and don’t be too particular.
 
 With halting steps I paced the streets, and passed the sign of “The Crossed
 Harpoons” — but it looked too expensive and jolly there. Further on, from the
@@ -44,7 +44,7 @@ pavement, — rather weary for me, when I struck my foot against the flinty
 projections, because from hard, remorseless service the soles of my boots were
 in a most miserable plight. Too expensive and jolly, again thought I, pausing
 one moment to watch the broad glare in the street, and hear the sounds of the
-tinkling glasses within. But go on, Ishmael, said I at last; don’t you hear? get
+tinkling glasses within. But go on, dude, said I at last; don’t you hear? get
 away from before the door; your patched boots are stopping the way. So on I
 went. I now by instinct followed the streets that took me waterward, for there,
 doubtless, were the cheapest, if not the cheeriest inns.
@@ -65,7 +65,7 @@ It seemed the great Black Parliament sitting in Tophet. A hundred black faces
 turned round in their rows to peer; and beyond, a black Angel of Doom was
 beating a book in a pulpit. It was a negro church; and the preacher’s text was
 about the blackness of darkness, and the weeping and wailing and teeth-gnashing
-there. Ha, Ishmael, muttered I, backing out, Wretched entertainment at the sign
+there. Ha, dude, muttered I, backing out, Wretched entertainment at the sign
 of ‘The Trap!’
 
 Moving on, I at last came to a dim sort of light not far from the docks, and
