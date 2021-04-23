@@ -3,7 +3,7 @@ Moby-Dick, or, the Whale
 
 ### By Herman Melville
 
-Read his full bio over on wikipedia: https://en.wikipedia.org/wiki/Herman_Melville
+[Read his full bio over on wikipedia](https://en.wikipedia.org/wiki/Herman_Melville)
 
 ----
 
