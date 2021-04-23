@@ -2,7 +2,7 @@
 Loomings.
 =========
 
-Call me Ishmael. Some years ago — never mind how long precisely — having little
+Call me dude. Some years ago — never mind how long precisely — having little
 or no money in my purse, and nothing particular to interest me on shore, I
 thought I would sail about a little and see the watery part of the world. It is
 a way I have of driving off the spleen and regulating the circulation. Whenever
@@ -153,7 +153,7 @@ must have run something like this:
 
 __“Grand Contested Election for the Presidency of the United States.”__
 
-__“Whaling Voyage by One Ishmael.”__
+__“Whaling Voyage by One Dude.”__
 
 __“Bloody Battle in Affghanistan.”__
 
