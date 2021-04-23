@@ -3,6 +3,8 @@ Moby-Dick, or, the Whale
 
 ### By Herman Melville
 
+Read his full bio over on wikipedia: https://en.wikipedia.org/wiki/Herman_Melville
+
 ----
 
 In Token of my admiration for his genius, this book is inscribed to __Nathaniel
