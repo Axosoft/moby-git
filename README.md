@@ -1,7 +1,14 @@
-Moby-Dick
-=========
+# GitKraken Clone Example Repo
+## Featuring Moby Dick
 
-## *Moby-Dick, or, The Whale* 
+### Hi there.  
+
+
+
+## About Moby-Dick
+
+
+### *Moby-Dick, or, The Whale* 
 ##### by Herman Melville. 
 
 Its a book about a giant whale...and so much more.  
