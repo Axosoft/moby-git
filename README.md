@@ -36,7 +36,7 @@ You will also need GitKraken to follow along with the example. If you have not a
 
 6. After cloning is successful, click the "Open Now" button that will appear in the top banner in GitKraken.
 
-![Open Now button in GitKraken](img/open-now-in-GitKraken.png)
+![Open Now button in GitKraken](img/open-now-in-gitkraken.png)
 
 
 **Congratulations!**  
