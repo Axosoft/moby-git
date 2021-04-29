@@ -10,7 +10,7 @@ You can follow along with the video and learn more about cloning at ***URL FOR C
 
 #### Set up:
 
-The first step before we go any further is to make a personal copy of this repository by forking this repository.  Forking a repository lets you make a copy of a GitHub repository directly to your GitHub account. This requires you to have a GitHub account and be logged in.  
+The first step before we go any further is to make a personal copy of this repository by forking it. Forking a repository lets you make a copy of a GitHub repository directly to your GitHub account. This requires you to have a GitHub account and be logged in.  
 
 To fork this repository, click the <img src='img/gh-fork-icon.png' alt="drawing" alt='GitHub Fork button' width="100"/> button in the upper left of this page. 
 
@@ -44,13 +44,13 @@ You will also need GitKraken to follow along with the example. If you have not a
 You have successfully cloned a repository with GitKraken!!! 
 
 
-*Now, let's try it with the CLI...*
+*Now, let's try it with the Git CLI...*
 
 
 ## Git Clone with the Git CLI
 
-1. Open a terminal and let's make sure Git is installed. Type:
-`git --version`and if it tells you the version number, then Git is ready to go. If it is not currently installed, [install it from git-scm.com](https://git-scm.com/downloads).
+1. Open a terminal and make sure Git is installed. Type:
+`git --version` and if it tells you the version number, then Git is ready to go. If it is not currently installed, [install it from git-scm.com](https://git-scm.com/downloads).
 
 2. Change directory to the target location for your soon-to-be cloned repository. For example, if you wanted to clone it into a directory called `Sites` located under your home directory, you would enter 
 <br><br>`cd ~/Sites`
@@ -70,7 +70,6 @@ You can now change directory to the newly cloned repository, in this case, moby-
 <br>`cd moby-dick`
 
 
-
 ## Next Steps
 
 You are now set up to work locally and push your changes to GitHub, or work on GitHub and pull those changes locally. 
@@ -84,7 +83,6 @@ https://support.gitkraken.com/working-with-repositories/pushing-and-pulling/)
 When using GitKraken, you will see the "Remotes" pane on the left will populate with the name of Remote and its branches. Now you can make your changes and push them up to your remote so team members can access your updates.
 
 GitKraken also lets you manually add remotes by clicking the plus icon. Here you may paste either the SSH or HTTPS URLs for the repository to add the remote. This is great for adding forks of your project to see what changes team members might be working on. Feel free to add [the original repository](https://github.com/Axosoft/moby-dick) you forked from to see how we evolve this repo in the future. 
-
 
 
 ### About Moby-Dick
