@@ -16,6 +16,7 @@ To fork this repository, click the <img src='img/gh-fork-icon.png' alt="drawing"
 
 **Congratulations!**  
 You have successfully forked a repository 🎉
+
 You should now be reading this, and the rest of the instructions, on your own fork!
 
 You will also need to [download GitKraken: <img src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png" alt='GitKraken download logo' width="100" /> ](https://www.gitkraken.com/download)
