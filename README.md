@@ -29,6 +29,8 @@ You will also need to [download GitKraken: <img src="https://www.gitkraken.com/d
 
 1. Click on the "Code" button and copy the URL for the repository.
 
+![Git Clone in GitKraken](img/git-clone-screen-in-GitKraken.png)
+
 2. Open GitKraken and click the folder tab in the upper left
 
 3. Under the Clone tab, paste the URL you copied previously.
@@ -37,11 +39,9 @@ You will also need to [download GitKraken: <img src="https://www.gitkraken.com/d
 
 5. Click "Clone the repo!"
 
-![Git Clone in GitKraken](img/git-clone-screen-in-GitKraken.png)
+![Open Now button in GitKraken](img/open-now-in-gitkraken.png)
 
 6. After cloning is successful, click the "Open Now" button that will appear in the top banner in GitKraken.
-
-![Open Now button in GitKraken](img/open-now-in-gitkraken.png)
 
 
 **Congratulations!**  
