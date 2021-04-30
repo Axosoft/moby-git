@@ -5,7 +5,7 @@
 
 This repository is meant to provide an example of cloning from GitHub using GitKraken and Git CLI.  
 
-You can follow along with the video and learn more about cloning at ***URL FOR CLONE PAGE GOES HERE
+You can follow along with the [video "What is Git Clone?"](https://youtu.be/aHMPn57ZmJo), and learn more about cloning.
 
 
 #### Set up:
