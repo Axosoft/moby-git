@@ -15,11 +15,13 @@ Before cloning the repo, first fork this GitHub repository.  Forking a repositor
 To fork this repository, click the <img src='img/gh-fork-icon.png' alt="drawing" alt='GitHub Fork button' width="100"/> button in the upper right of this page. 
 
 **Congratulations!**  
+
 You have successfully forked a repository 🎉
 
 You should now be reading this, and the rest of the instructions, on your own fork!
 
-You will also need to [download GitKraken: <img src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png" alt='GitKraken download logo' width="100" /> ](https://www.gitkraken.com/download)
+
+You will also need to [download GitKraken: <img src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png" alt='GitKraken download logo' width="100" /> ](https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo)
  to follow along with the example. 
 
 
@@ -84,7 +86,7 @@ https://support.gitkraken.com/working-with-repositories/pushing-and-pulling/)
 
 ### Viewing and adding remotes in GitKraken
 
-When using GitKraken, you will see the "Remotes" pane on the left will populate with the name of Remote and its branches. Now you can make your changes and push them up to your remote so team members can access your updates.
+When using GitKraken, you will see the "Remotes" pane on the left will populate with the name of Remote and its branches. Now you can make your changes and [push them up to your remote](https://gitkraken.com/learn/git/problems/pull-remote-git-branch) so team members can access your updates.
 
 GitKraken also lets you manually add remotes by clicking the plus icon. Here you may paste either the SSH or HTTPS URLs for the repository to add the remote. This is great for adding forks of your project to see what changes team members might be working on. Feel free to add [the original repository](https://github.com/Axosoft/moby-dick) you forked from to see how we evolve this repo in the future. 
 
@@ -103,6 +105,3 @@ The text in this project is written entirely in [Markdown](http://daringfireball
 Plain-text source file is `full-text-moby-dick.txt`. Chapters converted to Markdown are in the `/chapters/` directory. 
 
 Based on the [Project Gutenberg](http://www.gutenberg.org/ebooks/2701) [Plain Text UTF-8 file](http://www.gutenberg.org/cache/epub/2701/pg2701.txt).
-
-
-
