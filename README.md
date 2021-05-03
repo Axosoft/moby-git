@@ -21,7 +21,7 @@ You have successfully forked a repository 🎉
 You should now be reading this, and the rest of the instructions, on your own fork!
 
 
-You will also need to [download GitKraken:](https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo)
+You will also need to [download GitKraken](https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo)
 
 [<img src="img/gitkraken-keif-teal-sq.png" alt='GitKraken download logo' width="100" />](https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo)
 
