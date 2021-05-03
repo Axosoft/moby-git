@@ -5,7 +5,7 @@
 
 This repository is meant to provide an example of cloning from GitHub using GitKraken and Git CLI.  
 
-You can follow along with the [video and guide for "What is Git Clone?" on GitKraken.com](https://www.gitkraken.com/learn/git/tutorials/what-is-git-clone).
+You can follow along with the [video and guide for "What is Git Clone?" on GitKraken.com](https://www.gitkraken.com/learn/git/tutorials/what-is-git-clone?utm_source=learn%20gi[…]20tutorial%20link&utm_campaign=git%20clone%20practice%20repo).
 
 
 #### Set up:
@@ -21,8 +21,9 @@ You have successfully forked a repository 🎉
 You should now be reading this, and the rest of the instructions, on your own fork!
 
 
-You will also need to [download GitKraken: <img src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png" alt='GitKraken download logo' width="100" /> ](https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo)
- to follow along with the example. 
+You will also need to [download GitKraken](https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo)
+
+[<img src="img/gitkraken-keif-teal-sq.png" alt='GitKraken download logo' width="100" />](https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo)
 
 
 ## Git Clone with GitKraken
