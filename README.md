@@ -5,14 +5,14 @@
 
 This branch is meant to provide an example of committing and reverting from GitHub using GitKraken and Git CLI.  
 
-You can follow along with the [tutorial for "how to Git Commit?" on GitKraken.com](https://www.gitkraken.com/learn/git/tutorials/how-to-git-commit?utm_source=learn%20gi[…]20tutorial%20link&utm_campaign=git%20clone%20practice%20repo).
+You can follow along with the [tutorial for "how to Git Commit?" on GitKraken.com][1].
 
 
 #### Set up:
 
-If you have not already done so, you will also need to [download GitKraken.][1]
+If you have not already done so, you will also need to [download GitKraken.][2]
 
-[<img src="img/gitkraken-keif-teal-sq.png" alt='GitKraken download logo' width="100" />][1]
+[<img src="img/gitkraken-keif-teal-sq.png" alt='GitKraken download logo' width="100" />][2]
 
 
 ## Git Commit a file with GitKraken
@@ -85,5 +85,8 @@ To checkout the branch locally and pull from the online branch in the CLI type `
 To checkout the branch locally using GitKraken, simply click on the `git revert` branch in the Remote menu on the right hand side.  
 
 
+--
 
-[1]: https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo
+[1]: https://www.gitkraken.com/learn/git/tutorials/how-to-git-commit?utm_source=learn%20gi[…]20tutorial%20link&utm_campaign=git%20clone%20practice%20repo
+
+[2]: https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo
