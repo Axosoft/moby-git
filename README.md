@@ -79,13 +79,27 @@ You can now change directory to the newly cloned repository, in this case, moby-
 
 ## Next Steps
 
+
+## Next Steps
+
+You reading this on the `main` branch of this repository. 
+
+To continue on to practice reverting commits you can switch to the `git-commit` branch. 
+
+To switch branches on GitHub, click the `branches` option towards the top left of the code view and select the branch you want to navigate to. 
+
+To checkout the branch locally and pull from the online branch in the command line type `git checkout -b git-commit origin/git-commit`.
+
+To checkout the branch locally using GitKraken, simply click on the `git-commit` branch in the Remote menu on the right hand side. 
+
+
+### Working with remotes in GitKraken
+
 You are now set up to work locally and push your changes to GitHub, or work on GitHub and pull those changes locally. 
 
 [Learn more about pulling and pushing over on GitKraken.com](
 https://support.gitkraken.com/working-with-repositories/pushing-and-pulling/)
 
-
-### Viewing and adding remotes in GitKraken
 
 When using GitKraken, you will see the "Remotes" pane on the left will populate with the name of Remote and its branches. Now you can make your changes and [push them up to your remote](https://gitkraken.com/learn/git/problems/pull-remote-git-branch) so team members can access your updates.
 
