@@ -87,9 +87,9 @@ To checkout the branch locally using GitKraken, simply click on the `git revert`
 
 --
 
-[1]: https://www.gitkraken.com/learn/git/tutorials/how-to-git-commit?utm_source=learn%20gi[…]20tutorial%20link&utm_campaign=git%20clone%20practice%20repo
+[1]: https://www.gitkraken.com/learn/git/problems/revert-git-commit?utm_source=learn%20git%20practice%20repo&utm_medium=README%20git%20commit%20link&utm_campaign=git%20commit%20practice%20repo
 
-[2]: https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo
+[2]: https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=revert%20git%20commit%20practice%20repo
 
 [3]: https://support.gitkraken.com/start-here/preferences/#external-editor
 
