@@ -64,7 +64,7 @@ https://support.gitkraken.com/working-with-repositories/pushing-and-pulling/)
 
 --
 
-[1]: https://www.gitkraken.com/learn/git/problems/revert-git-commit?utm_source=learn%20gi[…]20tutorial%20link&utm_campaign=git%20clone%20practice%20repo
+[1]: https://www.gitkraken.com/learn/git/problems/revert-git-commit?utm_source=learn%20git%20practice%20repo&utm_medium=README%20revert%20git%20commit%20link&utm_campaign=revert%20git%20commit%20practice%20repo
 
-[2]: https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo
+[2]: https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=revert%20git%20commit%20practice%20repo
 
