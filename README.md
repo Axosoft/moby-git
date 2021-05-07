@@ -74,7 +74,7 @@ You have successfully committed a file with the Git CLI. 👏
 
 ## Next Steps
 
-You reading this on the `git-commit` branch of this repository. 
+You are reading this on the `git-commit` branch of this repository. 
 
 To continue on to practice reverting commits you can switch to the `git-revert` branch. 
 
