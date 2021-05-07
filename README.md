@@ -39,7 +39,7 @@ GitKraken also offers an alternative to revert with our Undo button. If you chan
 *Now, let's try a revert with the CLI...*
 
 
-## Git Commit a file with the Git CLI
+## Git Revert a commit with the Git CLI
 
 1. Modify any files you like and make a new commit in the repository.
 
