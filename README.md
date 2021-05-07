@@ -79,9 +79,6 @@ You can now change directory to the newly cloned repository, in this case, moby-
 
 ## Next Steps
 
-
-## Next Steps
-
 You are reading this on the `main` branch of this repository. 
 
 To continue on to practice making commits you can switch to the `git-commit` branch. 
