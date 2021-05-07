@@ -84,7 +84,7 @@ You can now change directory to the newly cloned repository, in this case, moby-
 
 You are reading this on the `main` branch of this repository. 
 
-To continue on to practice reverting commits you can switch to the `git-commit` branch. 
+To continue on to practice making commits you can switch to the `git-commit` branch. 
 
 To switch branches on GitHub, click the `branches` option towards the top left of the code view and select the branch you want to navigate to. 
 
