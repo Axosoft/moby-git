@@ -81,13 +81,13 @@ You can now change directory to the newly cloned repository, in this case, moby-
 
 You are reading this on the `main` branch of this repository. 
 
-To continue on to practice making commits you can switch to the `git-commit` branch. 
+Keep going! To practice making commits you can switch to the `git-commit` branch. 
 
 To switch branches on GitHub, click the `branches` option towards the top left of the code view and select the branch you want to navigate to. 
 
 To checkout the branch locally and pull from the online branch in the command line type `git checkout -b git-commit origin/git-commit`.
 
-To checkout the branch locally using GitKraken, simply click on the `git-commit` branch in the Remote menu on the right hand side. 
+To checkout the branch locally using GitKraken, simply click on the `git-commit` branch in the Remote menu on the left hand side. 
 
 
 ### Working with remotes in GitKraken
