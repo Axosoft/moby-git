@@ -3,6 +3,14 @@
 
 ### Hi there and congrats on progressing with your exploration of Git and GitKraken 👋
 
+**Contents:**
+
+1. `main` - Provides an example of cloning from GitHub using GitKraken and Git CLI. 
+2. `git-commit`(this branch) - Directions for making a [Git commit][4].
+3. `git-revert` - Directions for making a [Git revert][5]. 
+
+### Git Commit
+
 This branch provides an example of making a commit using GitKraken and Git CLI. 
 
 You can follow along with the [tutorial for "how to Git Commit?" on GitKraken.com][1].
@@ -91,5 +99,9 @@ To checkout the branch locally using GitKraken, simply click on the `git revert`
 
 [2]: https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20commit%20practice%20repo
 
-[3]:  https://support.gitkraken.com/start-here/preferences/#external-editor
+[3]: https://support.gitkraken.com/start-here/preferences/#external-editor
+
+[4]: https://www.gitkraken.com/learn/git/tutorials/how-to-git-commit?utm_source=learn%20gi%5B%E2%80%A6%5D20tutorial%20link&utm_campaign=git%20commit%20practice%20repo
+
+[5]: https://www.gitkraken.com/learn/git/problems/revert-git-commit?utm_source=learn%20git%20practice%20repo&utm_medium=README%20revert%20git%20commit%20link&utm_campaign=revert%20git%20commit%20practice%20repo
 
