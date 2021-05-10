@@ -3,7 +3,22 @@
 
 ### Hi there and thanks for exploring Git and GitKraken 👋
 
-This repository is meant to provide an example of cloning from GitHub using GitKraken and Git CLI.  
+**How to use this repository**
+
+This repository contains multiple branches, each with a unique README with directions on how to perform a specific Git command with GitKraken and the Git CLI. 
+
+If you are new to Git, each branch in a repo can contain completely different text and it will change depending on which branch you have checked out.    
+
+See the 'Next Steps' section later in this document for specific directions on changing branches.
+
+**Contents:**
+
+1. `main`(this branch) - Provides an example of cloning from GitHub using GitKraken and Git CLI. 
+2. `git-commit` - Directions for making a [Git commit][3].
+3. `git-revert` - Directions for making a [Git revert][4]. 
+
+
+## Git Clone: 
 
 You can follow along with the [video and guide for "What is Git Clone?" on GitKraken.com][1].
 
@@ -125,3 +140,7 @@ Based on the [Project Gutenberg](http://www.gutenberg.org/ebooks/2701) [Plain Te
 [1]: https://www.gitkraken.com/learn/git/tutorials/what-is-git-clone?utm_source=learn%20gi[…]20tutorial%20link&utm_campaign=git%20clone%20practice%20repo
 
 [2]: https://www.gitkraken.com/download?utm_source=learn%20git%20practice%20repo&utm_medium=README%20gk%20download%20link&utm_campaign=git%20clone%20practice%20repo
+
+[3]: https://www.gitkraken.com/learn/git/tutorials/how-to-git-commit?utm_source=learn%20gi%5B%E2%80%A6%5D20tutorial%20link&utm_campaign=git%20commit%20practice%20repo
+
+[4]: https://www.gitkraken.com/learn/git/problems/revert-git-commit?utm_source=learn%20git%20practice%20repo&utm_medium=README%20revert%20git%20commit%20link&utm_campaign=revert%20git%20commit%20practice%20repo
