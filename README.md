@@ -3,7 +3,7 @@
 
 ### Hi there and thanks for exploring Git and GitKraken 👋
 
-**How to use this repository**
+**How to use this repository:**
 
 This repository contains multiple branches, each with a unique README with directions on how to perform a specific Git command with GitKraken and the CLI. 
 
@@ -17,6 +17,7 @@ See the 'Next Steps' section later in this document for specific directions on c
 2. `git-commit` - Directions for making a [Git commit][3].
 3. `git-revert` - Directions for making a [Git revert][4]. 
 
+---
 
 ## Git Clone: 
 
