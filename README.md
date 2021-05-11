@@ -5,9 +5,9 @@
 
 **How to use this repository**
 
-This repository contains multiple branches, each with a unique README with directions on how to perform a specific Git command with GitKraken and the Git CLI. 
+This repository contains multiple branches, each with a unique README with directions on how to perform a specific Git command with GitKraken and the CLI. 
 
-If you are new to Git, each branch in a repo can contain completely different text and it will change depending on which branch you have checked out.    
+If you are new to Git, here is an important note: each branch in this practice repo will contain unique text focused on the related Git concept. The text will change depending on which branch you have checked out.    
 
 See the 'Next Steps' section later in this document for specific directions on changing branches.
 
