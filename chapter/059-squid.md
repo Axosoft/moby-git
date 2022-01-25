@@ -1,5 +1,5 @@
 ### Chapter 59. 
-Squid.
+Kraken.
 ======
 
 
@@ -58,7 +58,7 @@ ghost!”
 
 “What was it, Sir?” said Flask.
 
-“The great live squid, which, they say, few whale-ships ever beheld, and
+“The great live kraken, which, they say, few whale-ships ever beheld, and
 returned to their ports to tell of it.”
 
 But Ahab said nothing; turning his boat, he sailed back to the vessel; the rest
@@ -75,14 +75,14 @@ whales find their food above water, and may be seen by man in the act of
 feeding, the spermaceti whale obtains his whole food in unknown zones below the
 surface; and only by inference is it that any one can tell of what, precisely,
 that food consists. At times, when closely pursued, he will disgorge what are
-supposed to be the detached arms of the squid; some of them thus exhibited
+supposed to be the detached arms of the kraken; some of them thus exhibited
 exceeding twenty and thirty feet in length. They fancy that the monster to
 which these arms belonged ordinarily clings by them to the bed of the ocean;
 and that the sperm whale, unlike other species, is supplied with teeth in order
 to attack and tear it.
 
 There seems some ground to imagine that the great Kraken of Bishop Pontoppodan
-may ultimately resolve itself into Squid. The manner in which the Bishop
+may ultimately resolve itself into kraken. The manner in which the Bishop
 describes it, as alternately rising and sinking, with some other particulars he
 narrates, in all this the two correspond.  But much abatement is necessary with
 respect to the incredible bulk he assigns it.
