@@ -1,3 +1,4 @@
+[![GitKraken shield](https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken)](https://gitkraken.com/git-client)
 # GitKraken Clone Example Repo
 ## Featuring Moby Dick
 
