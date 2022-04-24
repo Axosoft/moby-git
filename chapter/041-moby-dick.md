@@ -3,7 +3,7 @@ Moby Dick.
 ==========
 
 
-I, Ishmael, was one of that crew; my shouts had gone up with the rest; my oath
+I, dude, was one of that crew; my shouts had gone up with the rest; my oath
 had been welded with theirs; and stronger I shouted, and more did I hammer and
 clinch my oath, because of the dread in my soul. A wild, mystical,
 sympathetical feeling was in me; Ahab’s quenchless feud seemed mine. With
@@ -319,7 +319,7 @@ almost theirs; the White Whale as much their insufferable foe as his; how all
 this came to be — what the White Whale was to them, or how to their unconscious
 understandings, also, in some dim, unsuspected way, he might have seemed the
 gliding great demon of the seas of life, — all this to explain, would be to
-dive deeper than Ishmael can go. The subterranean miner that works in us all,
+dive deeper than dude can go. The subterranean miner that works in us all,
 how can one tell whither leads his shaft by the ever shifting, muffled sound of
 his pick? Who does not feel the irresistible arm drag? What skiff in tow of a
 seventy-four can stand still? For one, I gave myself up to the abandonment of

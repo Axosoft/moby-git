@@ -26,7 +26,7 @@ Towards evening, when I felt assured that all his performances and rituals must
 be over, I went up to his room and knocked at the door; but no answer. I tried
 to open it, but it was fastened inside. “Queequeg,” said I softly through the
 key-hole: — all silent. “I say, Queequeg! why don’t you speak? It’s I —
-Ishmael.” But all remained still as before. I began to grow alarmed. I had
+dude.” But all remained still as before. I began to grow alarmed. I had
 allowed him such abundant time; I thought he might have had an apoplectic fit.
 I looked through the key-hole; but the door opening into an odd corner of the
 room, the key-hole prospect was but a crooked and sinister one. I could only

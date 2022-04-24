@@ -272,7 +272,7 @@ his misery, views what seems a boundless churchyard grinning upon him with its
 lean ice monuments and splintered crosses.
 
 But thou sayest, methinks that white-lead chapter about whiteness is but a
-white flag hung out from a craven soul; thou surrenderest to a hypo, Ishmael.
+white flag hung out from a craven soul; thou surrenderest to a hypo, dude.
 
 Tell me, why this strong young colt, foaled in some peaceful valley of Vermont,
 far removed from all beasts of prey — why is it that upon the sunniest day, if
@@ -292,7 +292,7 @@ trampling into dust.
 
 Thus, then, the muffled rollings of a milky sea; the bleak rustlings of the
 festooned frosts of mountains; the desolate shiftings of the windrowed snows of
-prairies; all these, to Ishmael, are as the shaking of that buffalo robe to the
+prairies; all these, to dude, are as the shaking of that buffalo robe to the
 frightened colt!
 
 Though neither knows where lie the nameless things of which the mystic sign
